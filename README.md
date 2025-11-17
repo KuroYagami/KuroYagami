@@ -14,24 +14,19 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+Hi, I'm Mohamed Laoui, AI & LMM Developer, Cybersecurity Enthusiast & Game Creator from Morocco.
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+A creator driven by curiosity, blending AI and LMM development with a passion for exploring the deeper layers of cybersecurity.
   <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+I enjoy understanding how systems think, break, and evolve, always pushing toward smarter and more secure digital experiences.  <br>
+ From building game mods to crafting full web projects, I love turning ideas into interactive, living creations that reflect both logic and imagination.
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  💬 Ask me anything about from <a href="https://github.com/KuroYagami/KuroYagami/issues" title="Issues">Here</a>
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: mohamed.laoui@hotmail.com">mohamed.laoui@hotmail.com</a>
 </p>
 
 <hr>
